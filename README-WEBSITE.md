@@ -27,3 +27,16 @@ The site will then appear at:
 
 Most text can be changed directly in `index.html`.
 Colours are defined at the top of `styles.css`.
+
+
+## Version 2 edits
+
+The team section now contains three photo placeholders.
+
+To add a photograph, place the image in `assets/`, then replace the corresponding `portrait-placeholder` div in `index.html` with an image tag. Example:
+
+`<img src="assets/joao-bessa.jpg" alt="João Gabriel Bessa">`
+
+The LinkedIn/Lattes buttons currently use `href="#"` because the profile URLs were not supplied. Replace `#` with the real public profile URL.
+
+Host links, CORDIS and the project email are already configured.
