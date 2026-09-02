@@ -1,6 +1,6 @@
 # CIRCULARePV website
 
-Static website for **CIRCULARePV - Data-Driven Circularity for Reused Photovoltaic Modules**.
+Static website for **CIRCULARePV -- Data-Driven Circularity for Reused Photovoltaic Modules**.
 
 ## Files
 
